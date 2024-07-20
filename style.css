@@ -1,0 +1,13 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+.container{
+   margin: 7px;
+   padding: 85px;
+   border: 2px solid rgb(9, 6, 6);
+   padding-top: 7px;
+  }
